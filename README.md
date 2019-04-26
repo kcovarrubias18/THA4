@@ -1,6 +1,6 @@
 # THA-4: Chinese Aid to Africa
 
-## Research Question: Which countries in Africa recieve the most/least aid from China and does it correlate with GDP Measures? 
+## Research Question: Which countries in Africa recieve the most/least aid from China? 
 - My research question focuses on Chinese aid commitments to the African continent. This dataset can be found here: [AidData](https://www.aiddata.org). AidData compiles Chinese aid commitments from 2000-2014. To add additional context to these commitments, I also used GDP Per Capita (PPP) numbers by country from: [World Bank](https://data.worldbank.org).  
 - The goal is to see which countries in Africa recieve aid and if there are any interesting patterns when these aid commitments are mapped. 
 - Inferences will be made through a simple linear regression and descriptive statistics (see Python analysis) and through plot.ly (see chart below)

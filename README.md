@@ -24,4 +24,10 @@
 |World Bank|GDP per capita (constant 2010 US$)|GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2010 U.S. dollars.|
 |AidData|Refer to 'Data Dictionary' Folder in Repository|Readme_GlobalChineseOfficialFinanceDataset_v1.0.pdf|
 ## Plot.ly Analysis
+[Link to Analysis](https://plot.ly/~Ryannnnnnnnn/22/)
+<div>
+    <a href="https://plot.ly/~Ryannnnnnnnn/22/?share_key=d8rd2shBmbzPMpJTvCjhyB" target="_blank" title="Plot 22" style="display: block; text-align: center;"><img src="https://plot.ly/~Ryannnnnnnnn/22.png?share_key=d8rd2shBmbzPMpJTvCjhyB" alt="Plot 22" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Ryannnnnnnnn:22" sharekey-plotly="d8rd2shBmbzPMpJTvCjhyB" src="https://plot.ly/embed.js" async></script>
+</div>
+
 

@@ -15,9 +15,9 @@
 |AidData Geocoded Global Chinese Official Finance|This dataset geolocates Chinese Government-financed projects that were implemented between 2000-2014. It captures 3,485 projects worth $273.6 billion in total official financing. The dataset includes both Chinese aid and non-concessional official financing.|
 |World Bank: World Development Indicators - GDP per capita, PPP(constant 2011)|The primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates|
 ## Data Dictionary
-- Please refer to .pdf documents in this repository for variable data dictionaries for both datasets. These documents include the variables that were omitted from the original .csv versions (raw data from Enigma Public) to the clean .xlsx versions used for Python analysis. 
-- The Python regression analysis merged both datasets at the 'State' variable level. A count function counted the number of instances a hate group or mass shootings were attributed to each state. No additional variable merger took place. 
-- The Plot.ly analysis below used the 'latitude_longitude_appended' variables for both datasets to map instances of mass shootings and hate groups respectively. The mass shooting mapping was amplified in area by the number of victims in each shooting (variable: Total_victims).
+| Dataset | Variable Name | Detail |
+|------|------|------|
+
 ## Plot.ly Analysis
 <div>
     <a href="https://plot.ly/~Ryannnnnnnnn/4/?share_key=ttMywOuo3pHmQeSgOecqeR" target="_blank" title="Plot 4" style="display: block; text-align: center;"><img src="https://plot.ly/~Ryannnnnnnnn/4.png?share_key=ttMywOuo3pHmQeSgOecqeR" alt="Plot 4" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>

@@ -17,7 +17,11 @@
 ## Data Dictionary
 | Dataset | Variable Name | Detail |
 |------|------|------|
-
+|World Bank|unique_id|Concatenation (Year, Country Name)|
+|World Bank|Year|Year of record|
+|World Bank|Country Name|Country|
+|World Bank|Country Code|World Bank 3 character code|
+|World Bank|GDP per capita, PPP (constant 2011 international $) [NY.GDP.PCAP.PP.KD]|GDP per capita based on purchasing power parity (PPP). PPP GDP is gross domestic product converted to international dollars using purchasing power parity rates. An international dollar has the same purchasing power over GDP as the U.S. dollar has in the United States. GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2011 international dollars.|
 ## Plot.ly Analysis
 <div>
     <a href="https://plot.ly/~Ryannnnnnnnn/4/?share_key=ttMywOuo3pHmQeSgOecqeR" target="_blank" title="Plot 4" style="display: block; text-align: center;"><img src="https://plot.ly/~Ryannnnnnnnn/4.png?share_key=ttMywOuo3pHmQeSgOecqeR" alt="Plot 4" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
